@@ -9,7 +9,7 @@ Information Technology Projects and Experience:</h2>
     
 - Microsoft Azure
   -  Implementing Active Directory (On-Premises)(VM)</b>
-  -  How to Make a Vm (VIrtural Machine)
+  -  How to Make a Vm (Virtural Machine)
 
  Above are some projects I have completed, along with these software projects I also have experience with building computers.
   I have built about three computers I have used for myself and an additional two for others.
