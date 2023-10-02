@@ -5,7 +5,7 @@ Information Technology Projects and Experience:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - Implementing a Help Desk Ticketing System (osTicket) /w Azure Virtual Machines
-  - TIcket Lifecycle Examples
+  - Ticket Lifecycle Examples (osTicket)
     
 - Microsoft Azure
   -  Implementing Active Directory (On-Premises)(VM)</b>
@@ -13,7 +13,6 @@ Information Technology Projects and Experience:</h2>
 
  Above are some projects I have completed, along with these software projects I also have experience with building computers.
   I have built about three computers I have used for myself and an additional two for others.
-
 
 <h2>Connect with me:</h2>
 <img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
