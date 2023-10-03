@@ -12,7 +12,7 @@ Information Technology Projects and Experience:</h2>
   -  How to Make a Vm (Virtural Machine)
 
  Above are some projects I have completed, along with these software projects I also have experience with building computers.
-  I have built about three computers I have used for myself and an additional two for others.
+  I have built about three computers, for myself and an additional two for others.
 
 <h2>Connect with me:</h2>
 <img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
