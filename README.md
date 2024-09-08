@@ -9,10 +9,10 @@ Information Technology Projects and Experience:</h2>
     
 - Microsoft Azure
   -  Implementing Active Directory (On-Premises)(VM)</b>
-  -  How to Make a Vm (Virtural Machine)
+  -  How to Make a Vm (Virtual Machine)
 
  Above are some projects I have completed, along with these software projects I also have experience with building computers.
-  I have built about three computers, for myself and an additional two for others. I always like staying up todate with the newest software and hardware! 
+  I have built over 200 computers, in my personal life and my work life building for customers. I always love staying up to date with the newest software and hardware! 
 
 <h2>Connect with me:</h2>
 <img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
